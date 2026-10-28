@@ -1,0 +1,89 @@
+{
+  "artificial intelligence search algorithms": [
+    "Artificial Intelligence_part1.pdf",
+    "Artificial Intelligence_part2.pdf",
+    "Artificial Intelligence_part3.pdf",
+    "Artificial Intelligence_part4.pdf",
+    "Artificial Intelligence_part5.pdf",
+    "Artificial Intelligence_part6.pdf"
+  ],
+  "knowledge representation reasoning": [
+    "Artificial Intelligence_part1.pdf",
+    "Artificial Intelligence_part2.pdf",
+    "Artificial Intelligence_part3.pdf",
+    "Artificial Intelligence_part4.pdf",
+    "Artificial Intelligence_part5.pdf",
+    "Artificial Intelligence_part6.pdf"
+  ],
+  "machine learning classification": [
+    "ML_part1.pdf",
+    "ML_part2.pdf",
+    "ML_part3.pdf",
+    "ML_part4.pdf",
+    "ML_part5.pdf",
+    "ML_part6.pdf"
+  ],
+  "supervised learning regression": [
+    "ML_part1.pdf",
+    "ML_part2.pdf",
+    "ML_part3.pdf",
+    "ML_part4.pdf",
+    "ML_part5.pdf",
+    "ML_part6.pdf"
+  ],
+  "database normalization": [
+    "DBMS_part1.pdf",
+    "DBMS_part2.pdf"
+  ],
+  "sql queries database": [
+    "DBMS_part1.pdf",
+    "DBMS_part2.pdf"
+  ],
+  "data structures trees": [
+    "DSA_part1.pdf",
+    "DSA_part2.pdf"
+  ],
+  "sorting algorithms complexity": [
+    "DSA_part1.pdf",
+    "DSA_part2.pdf"
+  ],
+  "process scheduling operating systems": [
+    "Operating Systems_part1.pdf",
+    "Operating Systems_part2.pdf",
+    "Operating Systems_part3.pdf",
+    "Operating Systems_part4.pdf"
+  ],
+  "deadlock memory management": [
+    "Operating Systems_part1.pdf",
+    "Operating Systems_part2.pdf",
+    "Operating Systems_part3.pdf",
+    "Operating Systems_part4.pdf"
+  ],
+  "software engineering testing": [
+    "Software Engineering_part1.pdf",
+    "Software Engineering_part2.pdf",
+    "Software Engineering_part3.pdf",
+    "Software Engineering_part4.pdf",
+    "Software Engineering_part5.pdf"
+  ],
+  "software development life cycle": [
+    "Software Engineering_part1.pdf",
+    "Software Engineering_part2.pdf",
+    "Software Engineering_part3.pdf",
+    "Software Engineering_part4.pdf",
+    "Software Engineering_part5.pdf"
+  ],
+  "microprocessor instruction set": [
+    "MPMC_part1.pdf",
+    "MPMC_part2.pdf"
+  ],
+  "embedded systems architecture": [
+    "Embedded Systems_part1.pdf",
+    "Embedded Systems_part2.pdf",
+    "Embedded Systems_part3.pdf"
+  ],
+  "aws cloud computing": [
+    "aws_part1.pdf",
+    "aws_part2.pdf"
+  ]
+}

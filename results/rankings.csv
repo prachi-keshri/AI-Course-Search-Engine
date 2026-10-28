@@ -1,0 +1,151 @@
+Algorithm,Query,Rank,Document,Score
+Keyword Frequency,artificial intelligence search algorithms,1,Artificial Intelligence_part2.pdf,749
+Keyword Frequency,artificial intelligence search algorithms,2,Artificial Intelligence_part3.pdf,265
+Keyword Frequency,artificial intelligence search algorithms,3,Artificial Intelligence_part1.pdf,250
+Keyword Frequency,artificial intelligence search algorithms,4,Artificial Intelligence_part5.pdf,116
+Keyword Frequency,artificial intelligence search algorithms,5,Artificial Intelligence_part4.pdf,113
+TF-IDF + Cosine,artificial intelligence search algorithms,1,Artificial Intelligence_part1.pdf,0.08385731923720352
+TF-IDF + Cosine,artificial intelligence search algorithms,2,ML_part3.pdf,0.04834081185934694
+TF-IDF + Cosine,artificial intelligence search algorithms,3,ML_part6.pdf,0.03045299300554305
+TF-IDF + Cosine,artificial intelligence search algorithms,4,Artificial Intelligence_part2.pdf,0.02142035888104981
+TF-IDF + Cosine,artificial intelligence search algorithms,5,ML_part1.pdf,0.011982310898228937
+Keyword Frequency,knowledge representation reasoning,1,Artificial Intelligence_part5.pdf,285
+Keyword Frequency,knowledge representation reasoning,2,Artificial Intelligence_part4.pdf,238
+Keyword Frequency,knowledge representation reasoning,3,Artificial Intelligence_part3.pdf,182
+Keyword Frequency,knowledge representation reasoning,4,Artificial Intelligence_part1.pdf,157
+Keyword Frequency,knowledge representation reasoning,5,Artificial Intelligence_part6.pdf,132
+TF-IDF + Cosine,knowledge representation reasoning,1,Artificial Intelligence_part5.pdf,0.11106666417090463
+TF-IDF + Cosine,knowledge representation reasoning,2,Artificial Intelligence_part1.pdf,0.10205376944921338
+TF-IDF + Cosine,knowledge representation reasoning,3,Artificial Intelligence_part6.pdf,0.09642214691550535
+TF-IDF + Cosine,knowledge representation reasoning,4,Artificial Intelligence_part3.pdf,0.06604810772690246
+TF-IDF + Cosine,knowledge representation reasoning,5,Artificial Intelligence_part4.pdf,0.0605783921934317
+Keyword Frequency,machine learning classification,1,ML_part1.pdf,526
+Keyword Frequency,machine learning classification,2,ML_part5.pdf,173
+Keyword Frequency,machine learning classification,3,ML_part2.pdf,158
+Keyword Frequency,machine learning classification,4,ML_part6.pdf,146
+Keyword Frequency,machine learning classification,5,Artificial Intelligence_part1.pdf,145
+TF-IDF + Cosine,machine learning classification,1,ML_part2.pdf,0.13449454884378206
+TF-IDF + Cosine,machine learning classification,2,ML_part1.pdf,0.12683517479075204
+TF-IDF + Cosine,machine learning classification,3,ML_part6.pdf,0.09204142901649269
+TF-IDF + Cosine,machine learning classification,4,ML_part3.pdf,0.05408180693337848
+TF-IDF + Cosine,machine learning classification,5,ML_part5.pdf,0.04255790209959822
+Keyword Frequency,supervised learning regression,1,ML_part1.pdf,379
+Keyword Frequency,supervised learning regression,2,ML_part2.pdf,223
+Keyword Frequency,supervised learning regression,3,ML_part5.pdf,163
+Keyword Frequency,supervised learning regression,4,ML_part6.pdf,148
+Keyword Frequency,supervised learning regression,5,Artificial Intelligence_part1.pdf,103
+TF-IDF + Cosine,supervised learning regression,1,ML_part2.pdf,0.1551410422538573
+TF-IDF + Cosine,supervised learning regression,2,ML_part1.pdf,0.14697174262748425
+TF-IDF + Cosine,supervised learning regression,3,ML_part6.pdf,0.11046928280859329
+TF-IDF + Cosine,supervised learning regression,4,ML_part3.pdf,0.04181829103405275
+TF-IDF + Cosine,supervised learning regression,5,ML_part5.pdf,0.038712447099330485
+Keyword Frequency,database normalization,1,DBMS_part1.pdf,669
+Keyword Frequency,database normalization,2,aws_part1.pdf,253
+Keyword Frequency,database normalization,3,DBMS_part2.pdf,196
+Keyword Frequency,database normalization,4,aws_part2.pdf,137
+Keyword Frequency,database normalization,5,Software Engineering_part2.pdf,54
+TF-IDF + Cosine,database normalization,1,DBMS_part1.pdf,0.19535294974367298
+TF-IDF + Cosine,database normalization,2,ML_part4.pdf,0.0652004876580089
+TF-IDF + Cosine,database normalization,3,DBMS_part2.pdf,0.030201896664405297
+TF-IDF + Cosine,database normalization,4,ML_part6.pdf,0.029698185850350278
+TF-IDF + Cosine,database normalization,5,Software Engineering_part2.pdf,0.024243209855110942
+Keyword Frequency,sql queries database,1,DBMS_part1.pdf,748
+Keyword Frequency,sql queries database,2,DBMS_part2.pdf,675
+Keyword Frequency,sql queries database,3,aws_part1.pdf,329
+Keyword Frequency,sql queries database,4,aws_part2.pdf,187
+Keyword Frequency,sql queries database,5,Software Engineering_part2.pdf,57
+TF-IDF + Cosine,sql queries database,1,DBMS_part2.pdf,0.3261878124487929
+TF-IDF + Cosine,sql queries database,2,DBMS_part1.pdf,0.2520385996407637
+TF-IDF + Cosine,sql queries database,3,aws_part1.pdf,0.037333833097643564
+TF-IDF + Cosine,sql queries database,4,Software Engineering_part2.pdf,0.02661283780912926
+TF-IDF + Cosine,sql queries database,5,Software Engineering_part5.pdf,0.02121426704054099
+Keyword Frequency,data structures trees,1,aws_part2.pdf,662
+Keyword Frequency,data structures trees,2,DBMS_part1.pdf,548
+Keyword Frequency,data structures trees,3,aws_part1.pdf,519
+Keyword Frequency,data structures trees,4,ML_part1.pdf,311
+Keyword Frequency,data structures trees,5,DSA_part2.pdf,191
+TF-IDF + Cosine,data structures trees,1,DSA_part2.pdf,0.04787092133309601
+TF-IDF + Cosine,data structures trees,2,ML_part3.pdf,0.031237268916778995
+TF-IDF + Cosine,data structures trees,3,DSA_part1.pdf,0.026022469422799777
+TF-IDF + Cosine,data structures trees,4,ML_part2.pdf,0.019408870314442665
+TF-IDF + Cosine,data structures trees,5,DBMS_part1.pdf,0.013000643262928335
+Keyword Frequency,sorting algorithms complexity,1,Artificial Intelligence_part2.pdf,146
+Keyword Frequency,sorting algorithms complexity,2,DSA_part1.pdf,101
+Keyword Frequency,sorting algorithms complexity,3,Artificial Intelligence_part3.pdf,78
+Keyword Frequency,sorting algorithms complexity,4,Artificial Intelligence_part1.pdf,77
+Keyword Frequency,sorting algorithms complexity,5,Artificial Intelligence_part6.pdf,73
+TF-IDF + Cosine,sorting algorithms complexity,1,DSA_part1.pdf,0.04070510601528415
+TF-IDF + Cosine,sorting algorithms complexity,2,Artificial Intelligence_part2.pdf,0.006363427906861083
+TF-IDF + Cosine,sorting algorithms complexity,3,Artificial Intelligence_part4.pdf,0.005478319602585977
+TF-IDF + Cosine,sorting algorithms complexity,4,DBMS_part1.pdf,0.00463323850179447
+TF-IDF + Cosine,sorting algorithms complexity,5,Artificial Intelligence_part1.pdf,0.0037265013255351966
+Keyword Frequency,process scheduling operating systems,1,Operating Systems_part1.pdf,750
+Keyword Frequency,process scheduling operating systems,2,Software Engineering_part1.pdf,559
+Keyword Frequency,process scheduling operating systems,3,Software Engineering_part3.pdf,503
+Keyword Frequency,process scheduling operating systems,4,Operating Systems_part2.pdf,442
+Keyword Frequency,process scheduling operating systems,5,Software Engineering_part4.pdf,437
+TF-IDF + Cosine,process scheduling operating systems,1,Operating Systems_part2.pdf,0.12232190036731463
+TF-IDF + Cosine,process scheduling operating systems,2,Operating Systems_part1.pdf,0.11596882254117816
+TF-IDF + Cosine,process scheduling operating systems,3,Artificial Intelligence_part5.pdf,0.03094881590749385
+TF-IDF + Cosine,process scheduling operating systems,4,Embedded Systems_part1.pdf,0.013911741446728248
+TF-IDF + Cosine,process scheduling operating systems,5,Artificial Intelligence_part3.pdf,0.009878560312361328
+Keyword Frequency,deadlock memory management,1,Operating Systems_part2.pdf,428
+Keyword Frequency,deadlock memory management,2,aws_part2.pdf,230
+Keyword Frequency,deadlock memory management,3,aws_part1.pdf,145
+Keyword Frequency,deadlock memory management,4,Operating Systems_part1.pdf,113
+Keyword Frequency,deadlock memory management,5,Software Engineering_part1.pdf,80
+TF-IDF + Cosine,deadlock memory management,1,Operating Systems_part3.pdf,0.06108781870298534
+TF-IDF + Cosine,deadlock memory management,2,Operating Systems_part4.pdf,0.06028161344584553
+TF-IDF + Cosine,deadlock memory management,3,Software Engineering_part1.pdf,0.03709140563492616
+TF-IDF + Cosine,deadlock memory management,4,Embedded Systems_part2.pdf,0.03210860511389204
+TF-IDF + Cosine,deadlock memory management,5,Software Engineering_part2.pdf,0.03162335373068338
+Keyword Frequency,software engineering testing,1,Software Engineering_part1.pdf,1124
+Keyword Frequency,software engineering testing,2,Software Engineering_part3.pdf,934
+Keyword Frequency,software engineering testing,3,Software Engineering_part5.pdf,569
+Keyword Frequency,software engineering testing,4,Software Engineering_part4.pdf,418
+Keyword Frequency,software engineering testing,5,Software Engineering_part2.pdf,303
+TF-IDF + Cosine,software engineering testing,1,Software Engineering_part3.pdf,0.23231542920790607
+TF-IDF + Cosine,software engineering testing,2,Software Engineering_part1.pdf,0.22320998001625422
+TF-IDF + Cosine,software engineering testing,3,Software Engineering_part5.pdf,0.11406610076387465
+TF-IDF + Cosine,software engineering testing,4,Software Engineering_part4.pdf,0.07060057634699306
+TF-IDF + Cosine,software engineering testing,5,Software Engineering_part2.pdf,0.06916259492249598
+Keyword Frequency,software development life cycle,1,Software Engineering_part1.pdf,1226
+Keyword Frequency,software development life cycle,2,Software Engineering_part3.pdf,767
+Keyword Frequency,software development life cycle,3,Software Engineering_part5.pdf,534
+Keyword Frequency,software development life cycle,4,Software Engineering_part4.pdf,431
+Keyword Frequency,software development life cycle,5,Software Engineering_part2.pdf,279
+TF-IDF + Cosine,software development life cycle,1,Software Engineering_part1.pdf,0.28566246601072265
+TF-IDF + Cosine,software development life cycle,2,Software Engineering_part3.pdf,0.2132129641494386
+TF-IDF + Cosine,software development life cycle,3,Software Engineering_part5.pdf,0.10798168714932352
+TF-IDF + Cosine,software development life cycle,4,Software Engineering_part4.pdf,0.06842425628571246
+TF-IDF + Cosine,software development life cycle,5,Software Engineering_part2.pdf,0.06172542290820907
+Keyword Frequency,microprocessor instruction set,1,ML_part1.pdf,165
+Keyword Frequency,microprocessor instruction set,2,Artificial Intelligence_part4.pdf,139
+Keyword Frequency,microprocessor instruction set,3,ML_part3.pdf,136
+Keyword Frequency,microprocessor instruction set,4,aws_part2.pdf,132
+Keyword Frequency,microprocessor instruction set,5,Artificial Intelligence_part3.pdf,118
+TF-IDF + Cosine,microprocessor instruction set,1,MPMC_part1.pdf,0.05453557001700223
+TF-IDF + Cosine,microprocessor instruction set,2,Operating Systems_part1.pdf,0.01677587825419357
+TF-IDF + Cosine,microprocessor instruction set,3,Operating Systems_part2.pdf,0.01487359071581695
+TF-IDF + Cosine,microprocessor instruction set,4,MPMC_part2.pdf,0.014462100734201547
+TF-IDF + Cosine,microprocessor instruction set,5,Artificial Intelligence_part4.pdf,0.00375358306648792
+Keyword Frequency,embedded systems architecture,1,Software Engineering_part2.pdf,378
+Keyword Frequency,embedded systems architecture,2,Embedded Systems_part1.pdf,377
+Keyword Frequency,embedded systems architecture,3,Software Engineering_part3.pdf,348
+Keyword Frequency,embedded systems architecture,4,Software Engineering_part4.pdf,322
+Keyword Frequency,embedded systems architecture,5,Software Engineering_part5.pdf,306
+TF-IDF + Cosine,embedded systems architecture,1,Embedded Systems_part1.pdf,0.1212079952465243
+TF-IDF + Cosine,embedded systems architecture,2,Embedded Systems_part3.pdf,0.11933436080680924
+TF-IDF + Cosine,embedded systems architecture,3,Software Engineering_part2.pdf,0.11264579166982844
+TF-IDF + Cosine,embedded systems architecture,4,Embedded Systems_part2.pdf,0.0810681461110099
+TF-IDF + Cosine,embedded systems architecture,5,DBMS_part1.pdf,0.03148843567975511
+Keyword Frequency,aws cloud computing,1,aws_part2.pdf,1791
+Keyword Frequency,aws cloud computing,2,aws_part1.pdf,1067
+Keyword Frequency,aws cloud computing,3,Artificial Intelligence_part6.pdf,25
+Keyword Frequency,aws cloud computing,4,Embedded Systems_part3.pdf,20
+Keyword Frequency,aws cloud computing,5,ML_part4.pdf,19
+TF-IDF + Cosine,aws cloud computing,1,aws_part2.pdf,0.3884673288656819
+TF-IDF + Cosine,aws cloud computing,2,aws_part1.pdf,0.2558737322428419
+TF-IDF + Cosine,aws cloud computing,3,Artificial Intelligence_part5.pdf,0.005878134294747977
+TF-IDF + Cosine,aws cloud computing,4,Embedded Systems_part1.pdf,0.004955644125969815
+TF-IDF + Cosine,aws cloud computing,5,Operating Systems_part1.pdf,0.00489269101843701

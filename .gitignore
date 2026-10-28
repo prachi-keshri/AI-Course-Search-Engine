@@ -1,0 +1,11 @@
+# Course PDFs
+dataset/
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor files
+.vscode/
